@@ -31,3 +31,7 @@ Add figures here. It's a draft.
 
 # Acknowledgements
 We would like to thanks our EU funding body.  RIP (?)
+
+# Additons from mplockhartuom
+We are in a Git class. Isn't this fun and informative.
+
