@@ -17,7 +17,9 @@ We simulate formation of SOA over W Africa, using Johns marvellous magical model
 # Methodology
 We compared simulations from model Y (Smith et al, 2005) with our measurements.
 
+# Results
+Our simulations did a great job of reproducing the measurements.
+
 # Conclusions
 We have made fantastic insight into the particle formation process.
 Nonetheless, questions remain unanswered, so maybe we should get some more money.
-
