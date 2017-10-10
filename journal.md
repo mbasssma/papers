@@ -26,3 +26,6 @@ Nonetheless, questions remain unanswered, so maybe we should get some more money
 
 # Figures
 Add figures here. It's a draft.
+
+# Acknowledgements
+We would like to thanks our EU funding body.  RIP (?)
