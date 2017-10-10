@@ -1,6 +1,6 @@
 # Author
-Stuart Anderson
-John Smith
+Stuart Anderson, University of Manchester
+John Smith, University of Somewhere Else
 
 # Title
 Measurements - model comparison of secondary organic aerosol over West Africa
